@@ -1,0 +1,10 @@
+~
+../.dockerenv
+        ../bin
+        ../c/
+        ../js/
+        ../lib
+        ../lib32
+        ../lib64
+        ../libx32
+        ../sbin
